@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+MERGED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-39:12
+MERGED from [:base] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/base/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:api] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/api/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:2:11-60
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:1-7:12
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:4:5-6:51
+MERGED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-37:19
+MERGED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-37:19
+	android:label
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:6:9-48
+	android:icon
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:5:9-43
+	android:allowBackup
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml:4:18-45
+uses-sdk
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+MERGED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/base/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:68
+MERGED from [:base] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/base/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:68
+MERGED from [:api] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/api/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:68
+MERGED from [:api] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/api/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-11:68
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:base] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/base/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-65
+	android:targetSdkVersion
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+		ADDED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+		INJECTED from /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/AndroidManifest.xml
+receiver#com.anysoftkeyboard.languagepack.korean.PackBroadcastReceiver
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-36:20
+	android:exported
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-89
+intent-filter#action:name:com.menny.android.anysoftkeyboard.KEYBOARD+category:name:android.intent.category.ALTERNATIVE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.SELECTED_ALTERNATIVE
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-21:29
+action#com.menny.android.anysoftkeyboard.KEYBOARD
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-85
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:25-82
+category#android.intent.category.DEFAULT
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:27-73
+category#android.intent.category.ALTERNATIVE
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-80
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:27-77
+category#android.intent.category.SELECTED_ALTERNATIVE
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-89
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:27-86
+intent-filter#action:name:com.menny.android.anysoftkeyboard.DICTIONARY+category:name:android.intent.category.ALTERNATIVE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.SELECTED_ALTERNATIVE
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-28:29
+action#com.menny.android.anysoftkeyboard.DICTIONARY
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:17-87
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:25-84
+meta-data#com.menny.android.anysoftkeyboard.keyboards
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-32:60
+	android:resource
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:17-57
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:17-75
+meta-data#com.menny.android.anysoftkeyboard.dictionaries
+ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-35:63
+	android:resource
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:17-60
+	android:name
+		ADDED from [:languages:korean:pack] /mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:17-78

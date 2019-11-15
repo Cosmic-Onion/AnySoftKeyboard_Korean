@@ -1,0 +1,4 @@
+#Fri Nov 15 22:01:54 GMT 2019
+base.0=/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

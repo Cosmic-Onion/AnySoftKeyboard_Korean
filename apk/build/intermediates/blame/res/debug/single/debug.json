@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/raw_korean_words_4.dict.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/raw/korean_words_4.dict"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_status_korean.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_status_korean.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/xml_korean_dictionaries.xml.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/xml/korean_dictionaries.xml"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/raw_korean_words_1.dict.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/raw/korean_words_1.dict"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_status_korean.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/ic_status_korean.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/xml_korean_keyboards.xml.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/xml/korean_keyboards.xml"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/raw_korean_words_3.dict.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/raw/korean_words_3.dict"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_status_korean.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_status_korean.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/raw_korean_words_2.dict.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/raw/korean_words_2.dict"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_status_korean.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_status_korean.png"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/xml_korean_keyboard.xml.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/xml/korean_keyboard.xml"
+    },
+    {
+        "merged": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/apk/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_status_korean.png.flat",
+        "source": "/mnt/stuff/Programming/KoreanKeyboard/LanguagePack/languages/korean/pack/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_status_korean.png"
+    }
+]

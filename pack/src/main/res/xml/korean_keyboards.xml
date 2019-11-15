@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard nameResId="@string/korean_keyboard" iconResId="@drawable/ic_status_korean"
+              layoutResId="@xml/korean_keyboard" id="@string/main_korean_keyboard_id"
+              defaultDictionaryLocale="ko" description="@string/korean_keyboard_description"
+              index="1" />
+</Keyboards>

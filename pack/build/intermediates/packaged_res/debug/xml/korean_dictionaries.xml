@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        description="@string/korean_dictionary_description"
+        dictionaryResourceId="@array/korean_words_dict_array"
+        id="d5ce923f-00c6-4a90-b949-bc491956b3f5"
+        initialSuggestions="@array/korean_initial_suggestions"
+        locale="ko"
+        nameResId="@string/korean_dictionary"
+        type="binary_resource" />
+</Dictionaries>

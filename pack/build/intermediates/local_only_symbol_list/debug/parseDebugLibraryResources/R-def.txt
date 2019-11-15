@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+array korean_initial_suggestions
+array korean_words_dict_array
+drawable ic_status_korean
+raw korean_words_1
+raw korean_words_2
+raw korean_words_3
+raw korean_words_4
+string korean_dictionary
+string korean_dictionary_description
+string korean_keyboard
+string korean_keyboard_description
+string korean_keyboard_symbols
+string main_korean_keyboard_id
+xml korean_dictionaries
+xml korean_keyboard
+xml korean_keyboards
