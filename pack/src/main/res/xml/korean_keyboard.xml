@@ -37,7 +37,7 @@
     <Row android:rowEdgeFlags="bottom" >
         <Key android:keyWidth="14.199996%" android:horizontalGap="0.39999485%" android:codes="-10" android:keyEdgeFlags="left" android:isModifier="true" />
         <Key android:keyWidth="14.199996%" android:codes="-2" android:isModifier="true" />
-        <Key android:keyWidth="38.400006%" android:codes="32" android:popupCharacters=" " android:isModifier="true" />
+        <Key android:keyWidth="38.400006%" android:codes="32" android:popupCharacters=" " android:isRepeatable="true" />
         <Key android:keyWidth="9.200001%" android:codes="46" android:popupCharacters="…☆♡★♥" android:isModifier="true" android:keyLabel="." />
         <Key android:keyWidth="19.200003%" android:codes="10" android:keyEdgeFlags="right" android:isModifier="true" />
     </Row>
